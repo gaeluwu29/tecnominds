@@ -10,13 +10,13 @@ Presentamos **UMTmap**, una herramienta de recopilación de toda la información
 - Rolando Juan Contreras Famania 
 
 # **Primera entrega**
-- Objetivo [1 Objetivo](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/1.%20objetivo.md)
-- Usuarios [2 Usuarios](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/2.%20Usuario.md)
-- Innovación [3 Innovación](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/3.%20Inovacion.md)
-- Historias de usuarios[1 Historias de usuarios](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.2%20Requerimientos%20e%20Historias%20de%20usuario/1.%20Historias%20de%20usuario.md)
-- Requerimientos [2 Requerimientos](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.2%20Requerimientos%20e%20Historias%20de%20usuario/2.%20requerimientos.md)
-- Descripcion del proceso [1 Descripcion del proceso](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.3%20proceso%20de%20desarrollo%20/1.%20Descripci%C3%B3n%20del%20proceso.md)
-- Evidencia de reuniones[2 Evidencias de reuniones](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.3%20proceso%20de%20desarrollo%20/2.%20evidencia%20de%20reuniones.md) 
-- Competencias [1 Competencias](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.4%20Competencias%20de%20la%20asignatura/1.%20Competencias.md)
-- Documentos [1.5 Dicumentos](https://github.com/gaeluwu29/Tecnomins/tree/main/Ducumentos/1.5%20Documentos%20generales)
+- Objetivo [1 Objetivo](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.1.%20Descripcion/1.1.1%20Objetivo.md)
+- Usuarios [2 Usuarios](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.1.%20Descripcion/1.1.2.%20Usuario.md)
+- Innovación [3 Innovación](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.1.%20Descripcion/1.1.3%20Inovacion.mdd)
+- Historias de usuarios[1 Historias de usuarios](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.2%20Requerimientos_e_historias_de_usuario./1.2.1.%20Historias_de_usuario.md)
+- Requerimientos [2 Requerimientos](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.2%20Requerimientos_e_historias_de_usuario./1.2.2.%20Requerimientos.md)
+- Descripcion del proceso [1 Descripcion del proceso](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.3.%20Procesos_De_Desarrollo./1.3.1.%20Descripci%C3%B3n_Del_Desarrollo.md)
+- Evidencia de reuniones[2 Evidencias de reuniones](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.3.%20Procesos_De_Desarrollo./1.3.1.%20Descripci%C3%B3n_Del_Desarrollo.md) 
+- Competencias [1 Competencias](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.4.%20Competencias_De_La_Asignatura./1.1.4.%20Competencias.md)
+- Documentos [1.5 Documentos](https://github.com/gaeluwu29/tecnominds/tree/main/Documentos_Parte1./1.5.%20Documentos_Generales.)
  # **segunda entrega**
