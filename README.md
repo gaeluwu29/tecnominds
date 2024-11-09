@@ -1,0 +1,3 @@
+# tecnominds
+
+bawyvdud
