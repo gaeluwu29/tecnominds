@@ -19,4 +19,5 @@ Presentamos **UMTmap**, una herramienta de recopilación de toda la información
 - Evidencia de reuniones[2 Evidencias de reuniones](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.3.%20Procesos_De_Desarrollo./1.3.1.%20Descripci%C3%B3n_Del_Desarrollo.md) 
 - Competencias [1 Competencias](https://github.com/gaeluwu29/tecnominds/blob/main/Documentos_Parte1./1.4.%20Competencias_De_La_Asignatura./1.1.4.%20Competencias.md)
 - Documentos [1.5 Documentos](https://github.com/gaeluwu29/tecnominds/tree/main/Documentos_Parte1./1.5.%20Documentos_Generales.)
+- [**Primera presentacion**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgaeluwu29%2FTecnomins%2Frefs%2Fheads%2Fmain%2FDucumentos%2F1.5%2520Documentos%2520generales%2FPresentacion_!-2.pptx&wdOrigin=BROWSELINK)
  # **segunda entrega**
